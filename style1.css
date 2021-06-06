@@ -1,0 +1,25 @@
+html {
+  font-size: 10x; 
+  font-family: "Kiwi Maru";
+  background-color: hsl(192, 45%, 62%);
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  padding-top: 10px;
+}
+h3{
+  font-size: 20px;
+  
+}
+p, li, ul, a {
+  font-size: 12px;
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+li {
+  padding-left: 20px;
+}
+
+/* selector {property: property value} */
